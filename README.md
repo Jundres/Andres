@@ -1,5 +1,5 @@
 # Andres
-Codigo facil para pantalla OLED y Arduino V1.0
+//Codigo facil para pantalla OLED y Arduino V1.0
 
 //Hecho para nimo2.blospot
 //Por ANR Estudiante de ingenieria en sistemas electronicos industriales
